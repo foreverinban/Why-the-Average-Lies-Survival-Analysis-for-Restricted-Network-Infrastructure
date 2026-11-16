@@ -1,0 +1,15 @@
+{
+  "title": "Why the Average Lies: Survival Analysis for Restricted Network Infrastructure",
+  "upload_type": "publication",
+  "publication_type": "article",
+  "description": "A short, hands-on article on why the average lifetime misleads when some servers are still reachable at the end of observation (censored data). Walks through a synthetic ten-server example, the Kaplan–Meier estimator, and a Greenwood confidence band. The data are synthetic. Language edited with AI assistance.",
+  "creators": [
+    {
+      "name": "Palii, Ivan",
+      "affiliation": "Dublin City University"
+    }
+  ],
+  "keywords": ["survival analysis", "Kaplan-Meier", "censored data", "network infrastructure"],
+  "language": "eng",
+  "license": "cc-by-4.0"
+}
